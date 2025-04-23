@@ -11,7 +11,12 @@
         "nrf_uarte.h": "c",
         "stdio.h": "c",
         "stdint.h": "c",
-        "nrf52840_bitfields.h": "c"
+        "nrf52840_bitfields.h": "c",
+        "nordic_common.h": "c",
+        "stdbool.h": "c",
+        "nrf_radio.h": "c",
+        "radio_config.h": "c",
+        "radio.h": "c"
     },
     "nrf-connect.topdir": "${nrf-connect.sdk:2.6.1}",
     "cortex-debug.variableUseNaturalFormat": true

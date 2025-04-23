@@ -14,7 +14,8 @@
                 "/Users/nick/projects/iot/nRF5_SDK_17.1.0_ddde560/integration/nrfx/legacy/",
                 "/Users/nick/projects/iot/nRF5_SDK_17.1.0_ddde560/components/libraries/bsp",
                 "/Users/nick/projects/iot/nRF5_SDK_17.1.0_ddde560/components/libraries/util",
-                "/Users/nick/projects/iot/nRF5_SDK_17.1.0_ddde560/components/libraries/uart"
+                "/Users/nick/projects/iot/nRF5_SDK_17.1.0_ddde560/components/libraries/uart",
+                "/Users/nick/projects/iot/nRF5_SDK_17.1.0_ddde560/components/drivers_nrf/radio_config"
             ],
             "defines": [],
             "macFrameworkPath": [
